@@ -1,0 +1,21 @@
+# 编译生成的文件
+build/
+
+# 目标文件
+*.o
+*.a
+*.so
+
+# 可执行文件
+server
+client
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+
+# 编辑器配置
+.vscode/
+.idea/
